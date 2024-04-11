@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Mood 🌼</title>
+        <script src = "{{url_for('static' , filename= 'index.js')}}"></script> 
+        <link rel="stylesheet" href = "{{ url_for('static' , filename = 'index.css')}}"> 
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    </head>
+
+    <body onload = "userRefresh()">
+       <div id = "navbar">
+            <div class = "navbarItem" onclick = "navToHome()">
+                <a>Home</a>
+            </div>
+            <div class = "navbarItem" onclick = "navToLoc()">
+                <a>Location</a>
+            </div>
+        </div>
+
+
+        <div id = "bodyContainer">
+
+            <div id = "headerContainer">
+                <h2>Mood User Panel 🌼</h2>
+            </div>
+
+            <div id = "userContainer">
+                {% for user, email in users|zip(emails) %}
+                    <div class = "userRows" onclick = "getuser(this)">
+                        <div class = "userItems">
+                            <p>{{ user }}</p>
+                        </div>
+                         <div class = "userItems">
+                            <p>{{ email }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div id = "userdataContainer">
+
+                <div class = "outContainer">
+                    <div id = "userOutContainer">
+                        <div class = "SimContainer">
+                            <p class = "SimText">User Profile</p>
+                        </div>
+                        <p id = "outEmail" class = "outText"></p>
+                        <p id = "outData" class = "outText"></p>
+                        <p id = "outSleep" class = "outText"></p>
+                        <p id = "outLocation" class = "outText"></p>
+                        <p id = "outInSchool" class = "outText"></p>
+                    </div>
+                </div>
+
+                <div class = "outContainer" >
+                    <div id = "locationContainer">
+                        <div class = "SimContainer">
+                            <p class = "SimText">Location Simulator</p>
+                        </div>
+                        <label id = "locationLabel" for = "locations">Choose a location:</label>
+                        <select id = "locationSelect">
+                            {%for l in locations%}
+                                <option>{{ l }}</option>
+                            {%endfor%}
+                        </select>
+                        <div id = "simulateButton" onclick = "simLocation()">
+                            <p>Simulate</p>
+                        </div>
+
+                        <p id = "simulateResult"></p>
+                    </div>
+                </div>
+            
+            </div>
+
+        </div>
+
+    </body>
+
+</html>

@@ -1,0 +1,1352 @@
+IS
+.215
+Digital Business - Technologies and Transformation
+View Class Sections
+.404
+Technology Entrepreneurship Study Mission (Asia)
+View Class Sections
+.425
+Digital Transformation Strategy
+View Class Sections
+.428
+Visual Analytics for Business Intelligence
+View Class Sections
+.444
+Digital Banking Enterprise Architecture
+View Class Sections
+.446
+Managing Customer Relations with Analytics: Asian Insights
+View Class Sections
+105
+Business Data Management
+View Class Sections
+110
+Information Systems and Innovation
+View Class Sections
+111
+Introduction to Programming
+View Class Sections
+113
+Web Application Development I
+View Class Sections
+210
+Business Process Analysis & Solutioning
+View Class Sections
+211
+Interaction Design and Prototyping
+View Class Sections
+212
+Software Project Management
+View Class Sections
+216
+Web Application Development II
+View Class Sections
+217
+Analytics Foundation
+View Class Sections
+412
+Enterprise Business Solutions
+View Class Sections
+419
+Retail Banking and Mobile Technology
+View Class Sections
+423
+Financial Markets Processes and Technology
+View Class Sections
+424
+Data Mining and Business Analytics
+View Class Sections
+430
+Digital Payments and Innovation
+View Class Sections
+434
+Social Analytics and Applications
+View Class Sections
+442
+Object Oriented Programming
+View Class Sections
+452
+Blockchain Applications in Financial Services
+View Class Sections
+453
+Financial Analytics
+View Class Sections
+455
+Overseas Project Experience (Data Analytics in Asia)
+View Class Sections
+457
+Fairness in Socio-technical Systems
+View Class Sections
+458
+Cloud Management and Engineering
+View Class Sections
+459
+Big Data Architecture
+View Class Sections
+460
+Machine Learning & Applications
+View Class Sections
+461
+AI Governance
+View Class Sections
+470
+Guided Research in Computing
+View Class Sections
+471
+Guided Research in Computing 2
+View Class Sections
+472
+Guided Advanced Research in Computing
+View Class Sections
+483
+IS/SMT Project Experience (Applications)
+View Class Sections
+484
+IS Project Experience [FinTech]
+View Class Sections
+490
+Google Analytics Work-Study Elective
+View Class Sections
+602
+Spreadsheets Modeling for Decision Making
+View Class Sections
+604
+Global Sourcing of Technology and Processes
+View Class Sections
+607
+Capstone Project - Data Science and Engineering
+View Class Sections
+610
+Capstone Project - Cybersecurity
+View Class Sections
+612
+Project
+View Class Sections
+613
+Cybersecurity Technology and Applications
+View Class Sections
+614
+IoT: Technology and Applications
+View Class Sections
+615
+Digital Transformation Strategy
+View Class Sections
+616
+Internship
+View Class Sections
+617
+Capstone Project - Software and Cyber-Physical Systems
+View Class Sections
+620
+Digital Organization and Change Management
+View Class Sections
+711
+Learning and Planning in Intelligent Systems
+View Class Sections
+712
+Machine Learning
+View Class Sections
+713
+Foundations for Data Analytics
+View Class Sections
+718
+Empirical Research Project I
+View Class Sections
+720
+Empirical Research Project III
+View Class Sections
+721
+Research Seminars I
+View Class Sections
+722
+Research Seminars II
+View Class Sections
+771
+Empirical Research Project 1
+View Class Sections
+772
+Empirical Research Project 2
+View Class Sections
+773
+Empirical Research Project 3
+View Class Sections
+774
+Empirical Research Project 4
+View Class Sections
+783
+Seminars in Information Systems 1
+View Class Sections
+784
+Seminars in Information Systems 2
+View Class Sections
+786
+Research Topics in Information Systems 1
+View Class Sections
+787
+Research Topics in Information System 2
+View Class Sections
+#
+ACCT
+.414
+Accounting Analytics Capstone
+View Class Sections
+009
+Overseas Project Experience (Accounting in Asia)
+View Class Sections
+101
+Financial Accounting
+View Class Sections
+102
+Management Accounting
+View Class Sections
+105
+Financial Accounting for Law
+View Class Sections
+111
+Financial Accounting
+View Class Sections
+201
+Corporate Reporting and Financial Analysis
+View Class Sections
+221
+Accounting Information Systems
+View Class Sections
+223
+Taxation
+View Class Sections
+224
+Financial Reporting and Analysis
+View Class Sections
+331
+Audit and Assurance
+View Class Sections
+332
+Accounting Thought and Governance
+View Class Sections
+334
+Intermediate Financial Accounting
+View Class Sections
+335
+Advanced Financial Accounting
+View Class Sections
+336
+Valuation
+View Class Sections
+337
+Statistical Programming
+View Class Sections
+403
+Advanced Taxation
+View Class Sections
+407
+Corporate Financial Management
+View Class Sections
+410
+Internal Audit
+View Class Sections
+418
+Data Modelling and Visualisation
+View Class Sections
+420
+Forecasting and Forensic Analytics
+View Class Sections
+424
+Auditing Information Systems
+View Class Sections
+425
+Forensic Accounting and Investigation
+View Class Sections
+427
+Accounting Data and Analytics Work-Study Elective
+View Class Sections
+431
+Sustainability Accounting and Reporting
+View Class Sections
+604
+Financial Statement Analysis
+View Class Sections
+611
+Financial Accounting
+View Class Sections
+616
+Management Accounting
+View Class Sections
+634
+Risk Governance
+View Class Sections
+635
+Ethics and Social Responsibility
+View Class Sections
+642
+Financial Statement Analysis
+View Class Sections
+644
+Advanced Financial Statement Analysis
+View Class Sections
+647
+Accounting
+View Class Sections
+648
+Applied Statistics for Data Analysis
+View Class Sections
+649
+Programming with Data
+View Class Sections
+651
+Managing for Value Creation
+View Class Sections
+657
+Financial Reporting in the IFRS World (Part I)
+View Class Sections
+665
+Data Modelling and Visualisation
+View Class Sections
+666
+Financial Reporting in the IFRS World (Part I)
+View Class Sections
+679
+Visual Analytics for Accounting
+View Class Sections
+682
+Programming for Business Analytics
+View Class Sections
+701
+Accounting and Governance – Theory and Practice
+View Class Sections
+702
+Introduction to Accounting Research
+View Class Sections
+704
+Financial Accounting
+View Class Sections
+707
+Empirical Research Project I
+View Class Sections
+711
+Information and Capital Markets
+View Class Sections
+712
+Global Leadership and Organizational Behavior
+View Class Sections
+714
+Global Financial Markets and Institutions
+View Class Sections
+715
+Introductory Research Project
+View Class Sections
+723
+Academic Writing Workshop
+View Class Sections
+#
+COR
+1001
+Internship
+View Class Sections
+1100
+Writing and Reasoning
+View Class Sections
+1201
+Calculus
+View Class Sections
+1301
+Leadership and Team Building
+View Class Sections
+1305
+Spreadsheet Modeling and Analytics
+View Class Sections
+1306
+Capital Markets in China
+View Class Sections
+1307
+Accounting for Entrepreneurs
+View Class Sections
+1701
+Critical Thinking in the Real World
+View Class Sections
+1703
+Managing in a Volatile, Uncertain, Complex and Ambiguous Context
+View Class Sections
+2001
+Community Service
+View Class Sections
+2100
+Economics and Society
+View Class Sections
+2201
+Technology and World Change
+View Class Sections
+2203
+Climate Change: Global and Local Solutions
+View Class Sections
+2204
+Science and Technology Studies: Where Science meets Society
+View Class Sections
+2205
+Climate, History and Society
+View Class Sections
+2210
+Technological Innovations Enhancing Urban Sustainability
+View Class Sections
+2213
+Biotechnology in a Global Society
+View Class Sections
+2217
+Situating the Machine: Technology, Politics, and Societies
+View Class Sections
+2221
+AI and Humanity
+View Class Sections
+2222
+AI for Social Transformation
+View Class Sections
+2224
+AI: Past, Present, and Future
+View Class Sections
+2406
+French
+View Class Sections
+2407
+Italian
+View Class Sections
+2408
+Spanish
+View Class Sections
+2603
+Singapore: Imagining The Next Fifty Years
+View Class Sections
+2614
+Publics and Privates on The Pacific Rims
+View Class Sections
+2619
+Fashioning a Nation
+View Class Sections
+2620
+Redefining the Third Age in Singapore
+View Class Sections
+2626
+Imagining the Self: Literature, Ethnicity and Gender in Asia
+View Class Sections
+2627
+European Cultural History: From Antiquity to Brexit
+View Class Sections
+2631
+Scratches on their Minds: Images of Asia in Hollywood
+View Class Sections
+3001
+Big Questions
+View Class Sections
+3301
+Ethics and Social Responsibility
+View Class Sections
+3302
+Ethics and Social Responsibility for Accounting
+View Class Sections
+3304
+Ethics and Corporate Responsibility
+View Class Sections
+#
+CS		
+.420
+Introduction to Artificial Intelligence
+View Class Sections
+101
+Programming Fundamentals I
+View Class Sections
+103
+Linear Algebra for Computing Applications
+View Class Sections
+104
+Mathematical Foundations of Computing
+View Class Sections
+201
+Data Structures and Algorithms
+View Class Sections
+203
+Collaborative Software Development
+View Class Sections
+204
+Interconnection of Cyber Physical Systems
+View Class Sections
+301
+IT Solution Architecture
+View Class Sections
+302
+IT Solution Lifecycle Management
+View Class Sections
+421
+Principles of Machine Learning
+View Class Sections
+422
+Reasoning, Planning and Learning under Uncertainty
+View Class Sections
+425
+Natural Language Communication
+View Class Sections
+440
+Foundations of Cybersecurity
+View Class Sections
+443
+Software and Systems Security
+View Class Sections
+444
+Strategic Cybersecurity Management
+View Class Sections
+460
+Foundations of Cyber-Physical Systems
+View Class Sections
+462
+Internet of Things: Technology and Applications
+View Class Sections
+470
+Guided Research in Computer Science
+View Class Sections
+480
+Computer Science Project Experience
+View Class Sections
+490
+Computer Science Work Study Elective
+View Class Sections
+602
+Algorithm Design and Implementation
+View Class Sections
+603
+Multi-Agent Systems
+View Class Sections
+604
+Deep Learning for Visual Recognition
+View Class Sections
+612
+AI System Evaluation
+View Class Sections
+701
+Deep Learning and Vision
+View Class Sections
+#
+SMT
+.201
+Geographic Information Systems for Urban Planning
+View Class Sections
+113
+Sensors and IoT Programming
+View Class Sections
+202
+Analytics Applications for Smart Living
+View Class Sections
+203
+Computational Social Science: Principles and Applications
+View Class Sections
+481
+Smart-City Operations Research
+View Class Sections
+#
+DSA		
+211
+Statistical Learning with R
+View Class Sections
+212
+Data Science with R
+View Class Sections
+306
+Big Data Analytics
+View Class Sections
+#
+ECON
+104
+Mathematics for Economics
+View Class Sections
+107
+Introduction to Econometrics
+View Class Sections
+111
+Microeconomics 1
+View Class Sections
+112
+Macroeconomics 1
+View Class Sections
+113
+Economics of Globalisation
+View Class Sections
+118
+Economic Development in Asia
+View Class Sections
+145
+Introductory Data Analytics in Healthcare
+View Class Sections
+155
+Healthcare Management
+View Class Sections
+203
+International Economics
+View Class Sections
+204
+Development Economics
+View Class Sections
+206
+Game Theory
+View Class Sections
+207
+Intermediate Econometrics
+View Class Sections
+209
+Labour Economics
+View Class Sections
+212
+Real Estate Economics
+View Class Sections
+215
+Health Economics
+View Class Sections
+216
+Economics of Ageing
+View Class Sections
+217
+Macroeconomics of Income Distribution
+View Class Sections
+226
+Urban Economics and Policy
+View Class Sections
+234
+International Trade
+View Class Sections
+241
+Strategic Thinking
+View Class Sections
+243
+Demographic and Family Economics
+View Class Sections
+245
+Applied Healthcare Analytics
+View Class Sections
+248
+Overseas Project Experience (Macroeconomics in Asia)
+View Class Sections
+251
+Microeconomics 2
+View Class Sections
+252
+Macroeconomics 2
+View Class Sections
+301
+Advanced Microeconomics
+View Class Sections
+400
+Senior Thesis
+View Class Sections
+490
+Health Economics and Management Work-study Elective
+View Class Sections
+601
+Microeconomics
+View Class Sections
+603
+Macroeconomics and Global Financial Markets
+View Class Sections
+611
+Econometrics
+View Class Sections
+612
+Understanding the Global Economy and Financial Markets
+View Class Sections
+621
+Microeconomics II
+View Class Sections
+657
+Political Economy: Global & Regional
+View Class Sections
+672
+Global Economics
+View Class Sections
+680
+Macroeconomic Analysis
+View Class Sections
+681
+Microeconomic Analysis
+View Class Sections
+682
+Econometric Analysis
+View Class Sections
+696
+Math. Methods for Economic Dynamics
+View Class Sections
+724
+International Trade
+View Class Sections
+735
+Advances in the Singapore and ASEAN Economies
+View Class Sections
+747
+Spatial Econometric Models and Methods
+View Class Sections
+6003
+International Trade: Theory and Policy
+View Class Sections
+6027
+Spatial Econometrics and Data Analysis
+View Class Sections
+6028
+Internship
+View Class Sections
+6029
+Internship
+View Class Sections
+#
+FNCE
+.213
+Entrepreneurial Finance
+View Class Sections
+.315
+Analytics in Finance And Real Estate
+View Class Sections
+101
+Finance
+View Class Sections
+102
+Financial Markets and Investments
+View Class Sections
+103
+Finance For Law
+View Class Sections
+201
+Corporate Finance
+View Class Sections
+217
+Wealth Management and Advisory
+View Class Sections
+221
+Investment Banking
+View Class Sections
+231
+Real Estate Investments and Finance
+View Class Sections
+232
+Project Financing
+View Class Sections
+305
+Analysis of Derivative Securities
+View Class Sections
+307
+Advanced Portfolio Management
+View Class Sections
+310
+Trade Finance
+View Class Sections
+699
+Financial Markets
+View Class Sections
+705
+Investments
+View Class Sections
+706
+Fundamental Research in Corporate Finance
+View Class Sections
+710
+Corporate Finance II
+View Class Sections
+6001
+Corporate Finance
+View Class Sections
+6003
+Hedge Funds
+View Class Sections
+6006
+Equity Analysis and Portfolio Management
+View Class Sections
+6010
+Fixed Income Analysis
+View Class Sections
+6034
+Advanced Corporate Finance
+View Class Sections
+6035
+Equity Analysis and Portfolio Management
+View Class Sections
+6037
+Investment Banking
+View Class Sections
+6043
+Fixed Income and Derivatives Analysis
+View Class Sections
+6045
+Sustainable Finance
+View Class Sections
+6047
+Financial Analytics and Innovation
+View Class Sections
+6048
+Advanced Equity Analysis and Portfolio Management
+View Class Sections
+6052
+Quantitative Methods and Economic Analysis
+View Class Sections
+6056
+Corporate Finance
+View Class Sections
+6058
+Capstone Project
+View Class Sections
+#
+LAW	
+.481
+International Mediation Law and Practice
+View Class Sections
+.486
+Privacy and Data Protection Law
+View Class Sections
+.491
+Law and Digital Commerce
+View Class Sections
+101_601
+Contract Law 1
+View Class Sections
+103_603
+Criminal Law
+View Class Sections
+105_605
+Law of Torts
+View Class Sections
+106_606
+Legal Research and Writing I
+View Class Sections
+108_608
+The Singapore Legal System
+View Class Sections
+201_621
+Corporate Law
+View Class Sections
+202_622
+Law of Property
+View Class Sections
+203_623
+Comparative Legal Systems
+View Class Sections
+301_631
+Legal Theory & Philosophy
+View Class Sections
+302_632
+Commercial Conflict of Laws
+View Class Sections
+307_637
+Law of Evidence
+View Class Sections
+400
+Directed Research
+View Class Sections
+401
+Intellectual Property Law
+View Class Sections
+405
+Information Technology and the Law
+View Class Sections
+406
+International Commercial Arbitration
+View Class Sections
+414
+International Commercialisation of Intellectual Property Rights
+View Class Sections
+416
+International Moots 1
+View Class Sections
+433
+Financial & Securities Regulation
+View Class Sections
+445
+Principles of the Law of Restitution
+View Class Sections
+449
+Legal and Commercial Principles in Project Financing Transactions
+View Class Sections
+451
+Pre-trial Practice in Civil Litigation
+View Class Sections
+462
+Introduction to Civil Procedure
+View Class Sections
+478
+Professional Mediation Skills
+View Class Sections
+498
+State Courts Clerkship Programme
+View Class Sections
+630
+Directed Research
+View Class Sections
+641
+Asian and Global Trends in Information Technology Law
+View Class Sections
+643
+Cross-Border Mediation: Professional Skills and Practice
+View Class Sections
+646
+Judgecraft
+View Class Sections
+649
+Blockchain and Governance
+View Class Sections
+650
+Internship
+View Class Sections
+654
+Trade Regulation in a Global Age
+View Class Sections
+655
+Fintech Regulation
+View Class Sections
+700
+Law in a Commercial Context
+View Class Sections
+4012
+Entrepreneurship in Singapore - From Cradle To Grave
+View Class Sections
+4029
+Sentencing Advocacy
+View Class Sections
+4030
+Carriage of Goods by Sea and International Trade
+View Class Sections
+4032
+Law and Technology
+View Class Sections
+4039
+Community Based Projects in the Real World
+View Class Sections
+4040
+International investment Law and Dispute Resolution
+View Class Sections
+4041
+International Anti-Corruption Compliance Law and Practice
+View Class Sections
+4042
+Sustainability Law
+View Class Sections
+#
+MGMT			
+.104
+Corporate Entrepreneurship and Innovation
+View Class Sections
+.205
+International Business
+View Class Sections
+.218
+Entrepreneurship and Business Creation
+View Class Sections
+.222
+Family Business
+View Class Sections
+.223
+Sustainable Entrepreneurship
+View Class Sections
+.235
+Sustainability Management and Governance
+View Class Sections
+.236
+Managing Strategic Change and Digital Transformation
+View Class Sections
+.244
+Fraud Protection for Entrepreneurs
+View Class Sections
+.318
+Design Thinking and Innovation
+View Class Sections
+.319
+Management of Technology and Innovation
+View Class Sections
+.330
+The Design of Business
+View Class Sections
+102
+Strategy
+View Class Sections
+106
+Introduction to Organisations
+View Class Sections
+108
+Introduction to Business Analytics
+View Class Sections
+232
+Business Consulting
+View Class Sections
+237
+Corporate Strategy
+View Class Sections
+301
+Business Study Mission (Asian Studies)
+View Class Sections
+317
+Managing Process Improvement
+View Class Sections
+321
+Business Study Mission (Globalisation)
+View Class Sections
+342
+Organisational Aspects of Sustainable Innovation
+View Class Sections
+345
+Digital Strategy in the Digital Media and Entertainment E-Commerce Ecosystem in Asia
+View Class Sections
+346
+Wholesale Trade and Maritime Work-Study Elective
+View Class Sections
+614A
+Corporate Strategy
+View Class Sections
+633
+Strategic Initiative Project
+View Class Sections
+656
+Management & Strategy
+View Class Sections
+710
+Innovation Strategy
+View Class Sections
+711
+Innovation Development
+View Class Sections
+712
+Global Strategy and Strategic Management
+View Class Sections
+717
+Research Methods I
+View Class Sections
+721
+Innovation Commercialization
+View Class Sections
+726
+Introductory Research Project
+View Class Sections
+728
+Business Research
+View Class Sections
+732
+Academic Writing Workshop
+View Class Sections
+737
+Strategy
+View Class Sections
+744
+Research in China Economy
+View Class Sections
+747
+Research in Innovation and Technology Management
+View Class Sections
+751
+Qualitative Method
+View Class Sections
+752
+Business Analytics
+View Class Sections
+753
+Quantitative Method
+View Class Sections
+755
+Social Networks
+View Class Sections
+757
+Experimental Methods for Business
+View Class Sections
+758
+Creativity and Innovation Research: Asian and Global
+View Class Sections
+759
+Statistics II
+View Class Sections
+6003
+Solving a Human Capital Challenge from Business Perspective
+View Class Sections
+6006
+Management of Technological Innovations
+View Class Sections
+6007
+HC Analytics and Research for Management Insights
+View Class Sections
+6015
+Solving a Human Capital Challenge from Business Perspective
+View Class Sections
+6017
+Sustainable Impact
+View Class Sections
+6018
+Internship
+View Class Sections
+6023
+Internship
+View Class Sections
+6024
+Internship
+View Class Sections
+6026
+Entrepreneurial Mindset and Business Planning
+View Class Sections
+6027
+Communicating Across Cultures
+View Class Sections
+6033
+Creativity as Precursor to Innovation
+View Class Sections
+6034
+Ethics and Corporate Social Responsibility
+View Class Sections
+6037
+Internship
+View Class Sections
+6041
+Capstone Project II
+View Class Sections
+6043
+Design Thinking for Opportunity Recognition and Innovation
+View Class Sections
+6048
+Internship
+View Class Sections
+6049
+Internship
+View Class Sections
+6050
+Internship
+View Class Sections
+6054
+Human Capital and Business Strategy
+View Class Sections
+#
+MKTG
+.220
+Digital Marketing
+View Class Sections
+101
+Marketing
+View Class Sections
+102
+Consumer Behaviour
+View Class Sections
+103
+Marketing Research
+View Class Sections
+204
+Services Marketing
+View Class Sections
+205
+Advertising
+View Class Sections
+215
+New Product Development
+View Class Sections
+217
+Strategic Brand Management
+View Class Sections
+219
+Marketing Channels and New Retail
+View Class Sections
+225
+Customer Relationship Management
+View Class Sections
+227
+Integrated Marketing Communications: A Brand Perspective
+View Class Sections
+228
+Marketing Analytics
+View Class Sections
+313
+Pricing
+View Class Sections
+618
+Marketing Management
+View Class Sections
+624
+Consumer Analytics
+View Class Sections
+628
+Digital Marketing
+View Class Sections
+637
+Marketing Research
+View Class Sections
+640
+Behavioural Science in Marketing
+View Class Sections
+702
+Theory Construction
+View Class Sections
+703
+Marketing Strategy
+View Class Sections
+710
+Marketing in the Digital Age
+View Class Sections
+#
+POSC
+003
+Introduction to Political and Policy Studies
+View Class Sections
+101
+Introduction to Public Policy
+View Class Sections
+203
+Comparing Political Systems
+View Class Sections
+210
+Political Economy of East Asia
+View Class Sections
+211
+European Union Politics
+View Class Sections
+215
+Democracy
+View Class Sections
+219
+Political Theory
+View Class Sections
+308
+Gender Politics: Exclusion and Empowerment
+View Class Sections
+310
+Development, Underdevelopment and Poverty
+View Class Sections
+401
+Senior Thesis in Political Issue
+View Class Sections
+#
+PPPM
+101
+Public Sector Management
+View Class Sections
+106
+Policy Design and Analysis
+View Class Sections
+301
+Public Policy Task Force
+View Class Sections
+#
+PSYC
+001
+Introduction to Psychology
+View Class Sections
+103
+Cognitive Psychology
+View Class Sections
+105
+Industrial and Organisational Psychology
+View Class Sections
+108
+Social Psychology
+View Class Sections
+110
+Psychology Research Methods I
+View Class Sections
+111
+Subjective Well-Being
+View Class Sections
+112
+Health Psychology
+View Class Sections
+204
+Psychology of Reasoning and Thinking
+View Class Sections
+208
+Psychology Research Methods II
+View Class Sections
+209
+Psychology of Close Relationships
+View Class Sections
+211
+Cyberpsychology: Technology and The Human Mind
+View Class Sections
+401
+Senior Thesis in Psychology
+View Class Sections
+402
+Guided Research in Social Science (Psychology)
+View Class Sections
+601
+Research Methods in Social and Behavioural Sciences
+View Class Sections
+603
+General Linear Model
+View Class Sections
+625
+Psychology of the Self
+View Class Sections
+701
+Empirical Research Project
+View Class Sections
+721
+Group Processes and Intergroup Relations
+View Class Sections
+727
+Cognition and Development
+View Class Sections
+#
+QF
+.205
+Computing Technology For Finance
+View Class Sections
+.305
+Global Financial Risk Management
+View Class Sections
+101
+Quantitative Finance
+View Class Sections
+102
+Investment Statistics
+View Class Sections
+600
+Asset Pricing
+View Class Sections
+602
+Derivatives
+View Class Sections
+603
+Quantitative Analysis of Financial Markets
+View Class Sections
+620
+Stochastic Modelling in Finance
+View Class Sections
+627
+Programming and Computational Finance
+View Class Sections
+#
+SOCG	
+001
+Understanding Societies
+View Class Sections
+110
+Deconstructing Singapore Society
+View Class Sections
+201
+Social Stratification and Inequality
+View Class Sections
+203
+Gender and Family
+View Class Sections
+215
+Introduction to Sociological Theory
+View Class Sections
+220
+Sociology of Terrorism and Political Violence
+View Class Sections
+401
+Senior Thesis in Sociology
+View Class Sections
+#
+COR-MGMT
+1302
+Business, Government and Society
+View Class Sections
+2207
+Innovations for Asia’s Smart Cities
+View Class Sections
+2211
+Harnessing Robotics, UAVs, and Digital Innovation for Business
+View Class Sections
+#
+COR-STAT
+1202
+Introductory Statistics
+View Class Sections
+1203
+Introduction to Statistical Theory
+View Class Sections
+#
+COR-THAI
+2403
+Thai
+View Class Sections
+

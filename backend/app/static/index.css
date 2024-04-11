@@ -1,0 +1,242 @@
+@font-face {
+    font-family: PoppinsRegular;
+    src: url('Font/Poppins-Regular.ttf');
+    src: url('Font/Poppins-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Font/Poppins-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Font/Poppins-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Font/Poppins-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+:root {
+    --font: PoppinsRegular;
+}
+
+body{
+    height: 100vh;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    background-color: whitesmoke;
+    padding: 0;
+}
+
+#navbar {
+    width: 15%;
+    height: 98%;
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-top: 0.5px solid black;
+    border-radius: 10px;
+}
+
+    .navbarItem {
+        width: 100%;
+        height: 50px;
+        border-bottom: 0.5px solid black;
+        padding:0;
+        align-items:center;
+        justify-content: center;
+        background-color: white;
+        padding-top: 10px;
+    }
+
+    .navbarItem:hover{
+       background-color: #99c2f4;
+       color: white;
+       cursor: pointer;
+    }
+
+    .navbarItem:hover a{
+        color: white;
+     }
+
+
+    .navbarItem a {
+        color: #222222;
+        font-family: var(--font);
+        text-decoration: none;
+        transition: 0.3s;
+        font-weight: bold;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+
+#bodyContainer {
+    width: 85%;
+    height: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#headerContainer {
+    width: 100%;
+    height: 12%;
+    background-color: #99c2f4;
+}
+
+#headerContainer > h2 {
+    color:white;
+    font-size: 30px;
+    font-family: var(--font);
+    padding-left: 30px;
+}
+
+#userContainer {
+    height: 35%;
+    width: 97.5%;
+    margin-top:10px;
+    overflow-y: scroll;
+    overflow-x: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-radius: 15px;
+}
+
+    .userRows {
+        width: 100%;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        border-bottom: 0.5px solid #99c2f4;
+    }
+
+    .userRows:hover{
+        background-color: #99c2f4;
+        color: white;
+        cursor: pointer;
+    }
+
+    .userItems > p {
+        font-family: var(--font);
+        transition: 0.5s;
+    }
+
+    .userItems {
+        width: 30%
+    }
+
+
+#userdataContainer {
+    display:flex;
+    flex-direction:row;
+    width: 97.5%;
+    height: 45%;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+
+    .outContainer {
+        height: 100%;
+        width: 49.5%;
+        overflow-y: scroll;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        border-radius: 15px;
+    }
+
+
+#userContainer > p {
+    font-size:20px;
+    text-align:left;
+    font-family: var(--font);
+}
+
+#userContainer > button {
+    font-size:20px;
+    text-align:left;
+}
+
+
+#locationContainer {
+    width: 100%;
+    height :100%;
+    display:none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+#userOutContainer {
+    width: 100%;
+    height :100%;
+    display:none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-family: var(--font);
+}
+
+.SimContainer {
+    background-color:#99c2f4;
+    height: 15%;
+    width: 100%;
+}
+
+    .SimText {
+        padding-left: 20px;
+        padding-top: 5px;
+        font-family: var(--font);
+        color:white;
+    }
+
+    .outText {
+        padding-left: 30px;
+    }
+
+    #locationLabel {
+        padding-left: 30px;
+        font-family: var(--font);
+    }
+
+    #locationSelect {
+        margin-left: 30px;
+        height: 10%;
+        font-family: var(--font);
+    }
+
+#simulateButton {
+    width: 25%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    border: #99c2f4 solid 0.5px;
+    margin-left: 30px;
+    transition: 0.75s;
+}
+
+    #simulateButton:hover {
+        background-color:  #99c2f4;
+        color: white;
+        cursor: pointer
+    }
+
+    #simulateButton > p {
+        font-family: var(--font);
+    }
+
+#simulateResult {
+    font-size: 10px;
+    padding-left: 30px;
+    font-family: var(--font);
+}
+
+
+
